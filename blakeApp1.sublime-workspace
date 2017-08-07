@@ -1,0 +1,1909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ow",
+				"ownedProperty"
+			],
+			[
+				"this",
+				"this.userId"
+			],
+			[
+				"landl",
+				"landlordId"
+			],
+			[
+				"ex",
+				"existingProperty"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"pro",
+				"propertiesState"
+			],
+			[
+				"non",
+				"imports/client/sharedModules/nonMutatingStateModifers.js"
+			],
+			[
+				"redu",
+				"reduxForm"
+			],
+			[
+				"update",
+				"updateProperty"
+			],
+			[
+				"updat",
+				"updateProperty"
+			],
+			[
+				"Pr",
+				"Property\t(PropertyLocationForm.js)"
+			],
+			[
+				"actionbutt",
+				"imports/client/ui/sharedComponents/ActionButtons/index.js"
+			],
+			[
+				"Prop",
+				"PropertyListingInformation"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"flexRo",
+				"imports/client/ui/sharedComponents/FlexRow/index.js"
+			],
+			[
+				"const",
+				"constructClassName"
+			],
+			[
+				"flex",
+				"flexbox\t(FormInputs.scss)"
+			],
+			[
+				"PAge",
+				"imports/client/ui/sharedComponents/Page/Page.js"
+			],
+			[
+				"Page",
+				"imports/client/ui/sharedComponents/Page/Page.js"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"Cen",
+				"imports/client/ui/sharedComponents/Centered/index.js"
+			],
+			[
+				"Cent",
+				"imports/client/ui/sharedComponents/Centered/Centered.js"
+			],
+			[
+				"page",
+				"pageContent\t(AppLayout.js)"
+			],
+			[
+				"do",
+				"doubleWide\t(Card.js)"
+			],
+			[
+				"div",
+				"divStyle"
+			],
+			[
+				"new",
+				"newProperty"
+			],
+			[
+				"p",
+				"property"
+			],
+			[
+				"prope",
+				"propertyId"
+			],
+			[
+				"prop",
+				"propertyId"
+			],
+			[
+				"exp",
+				"export"
+			],
+			[
+				"getP",
+				"getPropertyList\t(propertyListSelectors.js)"
+			],
+			[
+				"P",
+				"PropertyInformationForm\t(ProperyInformationForm.js)"
+			],
+			[
+				"Property",
+				"PropertyInformation\t(index.js)"
+			],
+			[
+				"ce",
+				"centerContent\t(Logout.js)"
+			],
+			[
+				"space",
+				"space-around\t(_flex.scss)"
+			],
+			[
+				"params",
+				"params\t(routerSelectors.js)"
+			],
+			[
+				"fle",
+				"flexCenterBoth\t(NotFound.js)"
+			],
+			[
+				"class",
+				"className\t(Card.js)"
+			],
+			[
+				"proper",
+				"property"
+			],
+			[
+				"actionB",
+				"imports/client/ui/sharedComponents/ActionButtons/index.js"
+			],
+			[
+				"ca",
+				"Card"
+			],
+			[
+				"card",
+				"imports/client/ui/sharedComponents/Card/Card.js"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"pageh",
+				"imports/client/ui/sharedComponents/PageHeader/PageHeader.js"
+			],
+			[
+				"pers",
+				"persistToClientStorage"
+			],
+			[
+				"create",
+				"createPersistor"
+			],
+			[
+				"app",
+				"appUrl\t(AppUrl.js)"
+			],
+			[
+				"defa",
+				"defaultState"
+			],
+			[
+				"auto",
+				"autoRehydrate"
+			],
+			[
+				"com",
+				"composeWithDevTools"
+			],
+			[
+				"def",
+				"defaultAppUrlState"
+			],
+			[
+				"con",
+				"constructor\t(methods.js)"
+			],
+			[
+				"cons",
+				"constructor\t(nonMutatingStateModifers.js)"
+			],
+			[
+				"propertyred",
+				"imports/client/ui/landlord/Properties/PropertyList/duck/reducer.js"
+			],
+			[
+				"centr",
+				"center\t(PropertyListContainer.js)"
+			],
+			[
+				"fet",
+				"fetchPropertyFromServer"
+			],
+			[
+				"map",
+				"mapDispatchToProps"
+			],
+			[
+				"LOAD",
+				"LOAD_PROPERTIES\t(actions.js)"
+			],
+			[
+				"methods",
+				"imports/api/properties/methods.js"
+			],
+			[
+				"fetch",
+				"fetchPropertyFromServer\t(propertyActions.js)"
+			],
+			[
+				"Proper",
+				"Properties\t(Properties.js)"
+			],
+			[
+				"add",
+				"addDefaultCurrentUrl"
+			],
+			[
+				"appUrl",
+				"imports/client/routing/AppUrl/duck/appUrlReducer.js"
+			],
+			[
+				"de",
+				"defaultState\t(appUrlReducer.js)"
+			],
+			[
+				"red",
+				"reduxStore"
+			],
+			[
+				"is",
+				"isProduction"
+			],
+			[
+				"compo",
+				"composeEnhancers"
+			],
+			[
+				"comp",
+				"composeEnhancers"
+			],
+			[
+				"__",
+				"__REDUX_DEVTOOLS_EXTENSION_COMPOSE__"
+			],
+			[
+				"sta",
+				"startup\t(startup.js)"
+			],
+			[
+				"Appl",
+				"imports/client/ui/AppLayout.js"
+			],
+			[
+				"loca",
+				"localStorage\t(localStorage.js)"
+			],
+			[
+				"cu",
+				"cwup\tReact: componentWillUpdate(np, ns) {…}"
+			],
+			[
+				"should",
+				"shouldComponentUpdatee\t(NotFoundContainer.js)"
+			],
+			[
+				"set",
+				"setIsLoggingIn"
+			],
+			[
+				"action",
+				"actionCreators"
+			],
+			[
+				"emai",
+				"emailAddress"
+			],
+			[
+				"handl",
+				"handleLogin"
+			],
+			[
+				"get",
+				"getUser"
+			],
+			[
+				"shoul",
+				"shouldReplaceUrl"
+			],
+			[
+				"default",
+				"defaultPage"
+			],
+			[
+				"router",
+				"routerSelectors\t(Router.js)"
+			],
+			[
+				"userSel",
+				"imports/client/user/duck/userSelectors.js"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"ge",
+				"getEmails"
+			],
+			[
+				"crea",
+				"createSelector"
+			],
+			[
+				"M",
+				"Meteor.user"
+			],
+			[
+				"Not",
+				"NotFoundContainer"
+			],
+			[
+				"notfound",
+				"NotFoundComponent"
+			],
+			[
+				"log",
+				"loginFormValidator"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"form",
+				"formOptions"
+			],
+			[
+				"Log",
+				"LoginPageContainer"
+			],
+			[
+				"L",
+				"LoginPageContainer"
+			],
+			[
+				"Lo",
+				"LoginFormContainer"
+			],
+			[
+				"sele",
+				"imports/client/routing/duck/routerSelectors.js"
+			],
+			[
+				"props",
+				"props"
+			],
+			[
+				"N",
+				"NotFound\t(NotFound.js)"
+			],
+			[
+				"test",
+				"test"
+			],
+			[
+				"pre",
+				"previouslyNotFoundUrl"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pts",
+				"pts\tReact: PropTypes.string"
+			],
+			[
+				"routerse",
+				"imports/client/routing/duck/routerSelector.js"
+			],
+			[
+				"pt",
+				"pts\tReact: PropTypes.string"
+			],
+			[
+				"duck",
+				"imports/client/routing/duck/routerActions.js"
+			],
+			[
+				"at",
+				"authenticated"
+			],
+			[
+				"id",
+				"isLoggedIn"
+			],
+			[
+				"boilerP",
+				"boilerProperty\t(BoilerConnectedComponent.js)"
+			],
+			[
+				"b",
+				"boilerSelector"
+			],
+			[
+				"boiler",
+				"boilerAction"
+			],
+			[
+				"bo",
+				"boilerAction"
+			],
+			[
+				"boi",
+				"boilerProperty"
+			],
+			[
+				"puli",
+				"imports/api/documents/server/publications.js"
+			],
+			[
+				"userD",
+				"imports/client/user/userDuck.js"
+			],
+			[
+				"Acion",
+				"ActionButtons"
+			],
+			[
+				"rouer",
+				"routerDuck"
+			],
+			[
+				"Br",
+				"imports/client/routing/BrowserUrl.js"
+			],
+			[
+				"AC",
+				"ActionButtons"
+			],
+			[
+				"Ac",
+				"imports/client/ui/sharedComponents/ActionButtons/ActionButtons.js"
+			],
+			[
+				"Router",
+				"imports/client/routing/Router.js"
+			],
+			[
+				"Link",
+				"imports/client/ui/sharedComponents/Link/Link.js"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"Load",
+				"LoadingWrapper\t(Loading.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 2269,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 28 files for \"favicon\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 544,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 446.0,
+		"last_filter": "prv",
+		"selected_items":
+		[
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"scope",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"scope hu",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"instan",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"instant",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ffp show",
+				"FuzzyFilePath: Show info"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"node",
+				"NodeRequirer: Set Plugin Options"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: conl",
+				"Snippet: conl"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"select sk",
+				"Select Skin"
+			],
+			[
+				"ui them",
+				"Colorsublime: Browse Themes"
+			]
+		],
+		"width": 612.0
+	},
+	"console":
+	{
+		"height": 360.0,
+		"history":
+		[
+			"cls",
+			"clear(0",
+			"clear",
+			"view.run_command('ffp_show_context')",
+			"ffp_show_context",
+			"view.run_command('react_comment')",
+			"view.run_command('reactComment')",
+			"view.run_command('example')",
+			"fr",
+			"exit",
+			"prettier",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Blake2"
+	],
+	"file_history":
+	[
+		"/C/Projects/Blake2/api.py",
+		"/C/Projects/Blake2/src/containers/App/index.js",
+		"/C/Projects/Blake2/src/actions/UploadActions.js",
+		"/C/Projects/Blake2/bottle_cors.py",
+		"/C/Projects/Blake2/package.json",
+		"/C/Projects/BlakesApp/package.json",
+		"/C/Projects/BlakesApp/app/global-styles.js",
+		"/C/Projects/BlakesApp/internals/scripts/clean.js",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Projects/LandTen/app.landten.com/lib/images.collection.js",
+		"/C/Projects/LandTen/app.landten.com/.meteor/local/build/programs/server/packages/ostrio_files.js",
+		"/C/Projects/LandTen/app.landten.com/package.json",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/vendors/_flex.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/PageContent/PageContent.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/PageContent/PageContent.scss",
+		"/C/Projects/LandTen/app.landten.com/.eslintrc",
+		"/C/Projects/LandTen/app.landten.com/imports/api/properties/methods.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyListingInformation/PropertyListingInformationForm.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/FlexRow/FlexRow.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyListingInformation/PropertyListingInformationFormContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyLocation/PropertyLocationForm.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyLocation/PropertyLocationFormValidation.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyLocation/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/duck/propertiesActions.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/FormInputs/FormInputs.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/SingleProperty.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/sharedModules/handlePropertyEditorSubmit.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/FormInputs/FormInputs.scss",
+		"/C/Projects/LandTen/app.landten.com/colors.py",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/duck/propertiesReducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/sharedModules/nonMutatingStateModifers.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/SinglePropertyContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/user/duck/userActions.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Login/LoginContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Login/LoginFormValidation.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Login/LoginForm.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyLocation/PropertyLocationFormContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Card/Card.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/BOILERPLATE/BoilerForm.js",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/colors.py",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.py",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/landlord.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyLocation/PropertyLocation.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyListingInformation/PropertyListingInformation.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyListingInformation/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyListingInformation/PropertyListingInformation.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyInformation/PropertyInformationFormContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Card/Card.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyInformation/PropertyInformation.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyInformation/PropertyInformationForm.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/FlexRow/FlexRow.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/PageHeader/PageHeader.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/PropertyInformation/index.js",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/ActionButtons/ActionButtons.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/persistToClientStorage.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/SharedComponents.scss",
+		"/C/Projects/LandTen/app.landten.com/node_modules/redux-form/dist/redux-form.js",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/application.scss",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/base/_flexPresets.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/FlexRow/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Centered/Centered.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/AppLayout.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/routing/AppUrl/duck/appUrlSelectors.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/duck/propertiesSelectors.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/Properties.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Page/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Page/Page.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Page/Page.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/PageHeader/PageHeader.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Logout/Logout.js",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/base/_mixins.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/NotFound/NotFound.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Centered/Centered.scss",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/base/_extends.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/navigation/TopNavigation/TopNavigation.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Centered/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Home.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Loading/Loading.js",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/base/_shared.scss",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/FuzzyFilePath/Default (Windows).sublime-keymap",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/FuzzyFilePath/FuzzyFilePath.sublime-settings",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 3/Packages/User/FuzzyFilePath.sublime-settings",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/PropertyListContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/AppLayout.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/routing/routerSelectors.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/rootReducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/routing/routes/landlordRoutes.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/SingleProperty/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/BOILERPLATE/boilerDuck.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Link/Link.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/routing/Router.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/NotFound/NotFoundContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Login/Login.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/PropertyList.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Card/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/singleProperty/SinglePropertyView.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/duck/propertyListReducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/navigation/SidebarNavigation/SidebarUserInfo/sidebarUserInfo.scss",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/_components.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/RecoverPassword.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/LandTen.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/routing/AppUrl/duck/appUrlReducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/startup.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/configureStore.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/user/duck/userReducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/user/UserTracker.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Logout/LogoutContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/user/duck/actions.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/duck/reducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/routing/AppUrl/AppUrl.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/duck/actions.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/duck/selectors.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/Signup.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/onboarding/ResetPassword.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/Unauthorized.js",
+		"/C/Projects/LandTen/app.landten.com/client/stylesheets/base/_centering.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/localStorage.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/configureStorePRODUCTION.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/stateSaver.js",
+		"/C/Projects/LandTen/app.landten.com/node_modules/deepmerge/index.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/startup/redux/configureStoreDEVELOPMENT.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/singleProperty/duck/propertyActions.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/sharedComponents/Loading/Loading.scss",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/singleProperty/duck/propertySelectors.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/singleProperty/SinglePropertyContainer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/singleProperty/duck/propertyReducer.js",
+		"/C/Projects/LandTen/app.landten.com/imports/client/ui/landlord/Properties/PropertyList/index.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"-*min.js, -*.txt, *.js, *.scss",
+			"-*min.js, -*.txt, *.js, -*.scss",
+			"-*min.js, -*.txt, *.js, *.scss",
+			"-*min.js, -*.txt, *.js, *imports/ui/*",
+			"-*min.js, -*.txt, *.js",
+			"-*min.js, -*.txt",
+			"-*min.js, -*Documentation/*, -*.txt, -*.otf",
+			"-*min.js, -*Documentation/*, -*.txt, -*.otf, *.scss",
+			"-*min.js, -*Documentation/*, -*.txt, -*.otf, -*.scss",
+			"-*min.js, -*Documentation/*, -*.txt, -*.otf, *.scss",
+			"-*min.js, -*Documentation/*, -*.txt, -*.otf",
+			"-*min.js, -*Documentation/*, -*.scss, -*.txt, -*.otf",
+			"-*min.js, -*Documentation/*, *.scss, -*.txt, -*.otf",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, -*.otf",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, -*.otf, *.scss",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, -*.otf",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, discount-ascii-warehouse/src/*, -*/ecstatic/*",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, discount*/src/*, -*/ecstatic/*",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, *static/*, -*/ecstatic/*",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt, *static/*",
+			"-*min.js, -*Documentation/*, -*.css, -*.txt",
+			"-*min.js, -*Documentation/*, -*.css, *.txt",
+			"-*min.js, -*Documentation/*, -*.css",
+			"-*min.js, -*Documentation/*, *.css",
+			"-*min.js, -*Documentation/*",
+			"",
+			"-*min.js, -*Documentation/*",
+			"-*min.js",
+			"-*.min.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"favicon",
+			"app",
+			"enable_cors",
+			"bluebird",
+			"FormattedMessage",
+			"startProjectHeader",
+			"clean",
+			"landlordId",
+			"ostrio",
+			"extra",
+			"align",
+			"pageContent",
+			"meteor/meteor",
+			"import Me",
+			"_landlordId",
+			"newState",
+			"ies",
+			"find",
+			"lodash",
+			"loginFormValidation",
+			"handleLogin",
+			"login",
+			"handleLoginSubmit",
+			"fetchProperty",
+			"Button",
+			"back",
+			"horizontal",
+			"0",
+			":not",
+			"not:",
+			":not",
+			"form",
+			"flex",
+			"Flex",
+			"flex",
+			"PropertyLocationForm",
+			"Information",
+			"PropertyInformation",
+			"* + *",
+			"boilerForm",
+			"init",
+			"redux-fo",
+			"DESTROY",
+			"clear",
+			"pointer-events",
+			"cursor",
+			"flex",
+			"Flex",
+			"flex",
+			"\"",
+			"10000",
+			"FormInputs",
+			"PageContent",
+			"pageContent",
+			"PageContent",
+			"resolveClass",
+			"resolve",
+			"className",
+			"19",
+			"PropertyInformationForm",
+			"@import",
+			"<Field",
+			"initialVal",
+			"merge",
+			"lo",
+			"lodash",
+			"Page",
+			"page",
+			"Page",
+			"PageHeader",
+			"div",
+			"Centered",
+			"centerContent",
+			"0",
+			"fillParent",
+			"allZeroPositions",
+			"include",
+			"extend",
+			"clearfix",
+			"calc",
+			"both",
+			"center",
+			"div",
+			"position: absolute",
+			"&",
+			"flexbox",
+			"flex",
+			"Card",
+			"Home",
+			"div",
+			"centeredContentWrapper",
+			"Card",
+			"centerContent",
+			"flexCenterBoth",
+			"0",
+			"propertyId",
+			"propertyListS",
+			"PropertyList",
+			"./",
+			"duck/propertyList",
+			"d/Properties/PropertyList/duck/propertyList",
+			"PropertyListContainer",
+			"duck",
+			"createSelector",
+			"selector",
+			"BoilerForm",
+			"BoilerFormContainer",
+			"BoilerForm",
+			"SingleProperty",
+			"singleProperty",
+			"SingleProperty",
+			"flexCenterBoth",
+			"justif",
+			"wrap",
+			"centerBoth",
+			"className=\"center\"",
+			"style=\"margin",
+			"center",
+			"pageContent",
+			"ownProps",
+			":before",
+			"landlord/properties",
+			"duck/Propert",
+			"React.create",
+			"React.Prop",
+			"singleproperty",
+			"ListGroup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_landlordId",
+			"landlordId",
+			"  }",
+			"PropertyLocation",
+			"fillParent",
+			"div",
+			"duck/properties",
+			"flexCenterBoth",
+			"Card",
+			"landlord/properties",
+			"user/duck/userActions",
+			"user/duck/userSelectors",
+			"user/duck/userReducer",
+			"duck/reducer",
+			"duck/selectors",
+			"duck/actions",
+			"center",
+			"landlord/Properties",
+			"PropertyList",
+			"useReplaceState",
+			"Link",
+			"LOGGING_IN",
+			"SET_IS_LOGGING_IN",
+			"REPLACE_URL",
+			"replaceUrl",
+			"PUSH_NEW_URL",
+			"pushNewUrl",
+			"UPDATE_CURRENT_URL_VIA_REPLACE",
+			"UPDATE_CURRENT_URL",
+			"updateCurrentUrl",
+			"UPDATE_URL_VIA_PUSH",
+			"updateUrlViaPush",
+			"Route matching:\n   *1 - starts at the top\n   *2 - stops when a match is found",
+			"state.appUrl",
+			"AppUrl/duck/appUrl",
+			"appUrlActions",
+			"appUrlSelectors",
+			"appUrlReducer",
+			"urlSelectors",
+			"urlActions",
+			"getCurrentUrl",
+			"SET_NOT_FOUND_URL",
+			"SET_USER",
+			"userActions",
+			"imports/client/sharedModules",
+			"routerActions",
+			"routerActionCreators",
+			"isAuthenticated",
+			"state.appLocation",
+			"appLocationDuck",
+			"updateCurrentUrl",
+			"routerDuck",
+			"pageContent",
+			"Link from '/imports/client/ui/sharedComponents/Link'",
+			"/imports/client/ui/sharedComponents/Link",
+			"currentUrl",
+			"Loading",
+			"SidebarNavItem",
+			"iconClassName",
+			"\\}\n",
+			"updateAppLocation",
+			"jehosefat",
+			"/imports/client/routing/",
+			"/imports/client/ui/",
+			"/imports/routing/",
+			"/imports/client/routing/",
+			"/imports/client/",
+			"BoilerForm",
+			"/imports/ui/sharedModules/",
+			"/imports/ui/sharedComponents/",
+			"/imports/routing/",
+			"/imports/startup/client/redux/",
+			"/imports/startup/redux/",
+			"",
+			"import browserHistory from '/imports/startup/client/routing/Router/tempBrowserHistory'",
+			"clearProperty",
+			"handlePropertyEditorSubmit",
+			"jQueryValidation.js",
+			"SinglePropertyView",
+			"></",
+			"/>\n",
+			"collection",
+			"authenticated",
+			"isLoggingIn",
+			"reduxStore",
+			"SidebarNavigation",
+			"TopNavigation",
+			"AppNavigation",
+			"TopNavigation",
+			"HeaderNavigation",
+			"Home",
+			".borgoreeeeeNETter",
+			".borgoreeeee",
+			"google_plus",
+			"NOTAPROTOCOLHERE",
+			".notcomNOW",
+			"NOTGOOGLE",
+			"tenant404brokenlink.nil",
+			"<!--// GA Code removed -->",
+			"// GA Code removed",
+			"LandTen",
+			"messageHandler",
+			"invalidated",
+			"invalidate",
+			"MessageHandler",
+			"browserSync",
+			"\\n\\r",
+			"message",
+			"debug = true",
+			"debug = false",
+			"debug = true",
+			"-",
+			"",
+			"condensedFaculty",
+			"</div>\n",
+			"!in_array(verCookie(),$ADMIN_IDS)",
+			"!in_array(verCookie(),$ADMIN_IDS) && false",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2261,
+								2261
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 32
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 845.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Projects\\Blake2",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monocyanide ColorScheme - Constrasted Light.tmTheme",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 45
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scopehunter.results":
+	{
+		"height": 325.0
+	},
+	"pinned_build_system": "",
+	"project": "blakeApp1.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"flex",
+				"client\\stylesheets\\vendors\\_flex.scss"
+			],
+			[
+				"pred",
+				"imports\\client\\ui\\landlord\\Properties\\duck\\propertiesReducer.js"
+			],
+			[
+				"method",
+				"imports\\api\\properties\\methods.js"
+			],
+			[
+				"eslin",
+				".eslintrc"
+			],
+			[
+				"methods",
+				"imports\\api\\properties\\methods.js"
+			],
+			[
+				"non",
+				"imports\\client\\sharedModules\\nonMutatingStateModifers.js"
+			],
+			[
+				"im",
+				"imports\\client\\sharedModules\\nonMutatingStateModifers.js"
+			],
+			[
+				"paction",
+				"imports\\client\\ui\\landlord\\Properties\\duck\\propertiesActions.js"
+			],
+			[
+				"propduckac",
+				"imports\\client\\ui\\landlord\\Properties\\duck\\propertiesActions.js"
+			],
+			[
+				"login",
+				"imports\\client\\ui\\onboarding\\Login\\LoginContainer.js"
+			],
+			[
+				"car",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.scss"
+			],
+			[
+				"proper",
+				"imports\\client\\sharedModules\\handlePropertyEditorSubmit.js"
+			],
+			[
+				"biol",
+				"imports\\client\\BOILERPLATE\\BoilerForm.js"
+			],
+			[
+				"for",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\FormInputs.scss"
+			],
+			[
+				"cardscs",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.scss"
+			],
+			[
+				"form",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\FormInputs.scss"
+			],
+			[
+				"proscss",
+				"imports\\client\\ui\\landlord\\Properties\\SingleProperty\\PropertyListingInformation\\PropertyListingInformation.scss"
+			],
+			[
+				"forminput",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\FormInputs.js"
+			],
+			[
+				"cardscss",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.scss"
+			],
+			[
+				"propscss",
+				"imports\\client\\ui\\landlord\\Properties\\SingleProperty\\PropertyInformation\\PropertyInformation.scss"
+			],
+			[
+				"page",
+				"imports\\client\\ui\\sharedComponents\\PageHeader\\PageHeader.js"
+			],
+			[
+				"c",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.js"
+			],
+			[
+				"pers",
+				"imports\\client\\startup\\redux\\persistToClientStorage.js"
+			],
+			[
+				"preaci",
+				"imports\\client\\ui\\landlord\\Properties\\duck\\propertiesActions.js"
+			],
+			[
+				"formscss",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\FormInputs.scss"
+			],
+			[
+				"singl",
+				"imports\\client\\ui\\landlord\\Properties\\SingleProperty\\SingleProperty.js"
+			],
+			[
+				"card",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.scss"
+			],
+			[
+				"appl",
+				"imports\\client\\ui\\AppLayout.scss"
+			],
+			[
+				"propinfof",
+				"imports\\client\\ui\\landlord\\Properties\\SingleProperty\\PropertyInformation\\PropertyInformationFormContainer.js"
+			],
+			[
+				"single",
+				"imports\\client\\ui\\landlord\\Properties\\SingleProperty\\SingleProperty.js"
+			],
+			[
+				"selectors",
+				"imports\\client\\routing\\AppUrl\\duck\\appUrlSelectors.js"
+			],
+			[
+				"app",
+				"imports\\client\\ui\\AppLayout.scss"
+			],
+			[
+				"prop",
+				"imports\\client\\ui\\landlord\\Properties\\Properties.js"
+			],
+			[
+				"log",
+				"imports\\client\\ui\\onboarding\\Logout\\Logout.js"
+			],
+			[
+				"topnac",
+				"imports\\client\\ui\\navigation\\TopNavigation\\TopNavigation.scss"
+			],
+			[
+				"home",
+				"imports\\client\\ui\\onboarding\\Home.js"
+			],
+			[
+				"land",
+				"imports\\client\\routing\\routes\\landlordRoutes.js"
+			],
+			[
+				"loadin",
+				"imports\\client\\ui\\sharedComponents\\Loading\\Loading.js"
+			],
+			[
+				"lanrou",
+				"imports\\client\\routing\\routes\\landlordRoutes.js"
+			],
+			[
+				"roo",
+				"imports\\client\\startup\\redux\\rootReducer.js"
+			],
+			[
+				"boil",
+				"imports\\client\\BOILERPLATE\\boilerDuck.js"
+			],
+			[
+				"singlep",
+				"imports\\client\\ui\\landlord\\Properties\\SingleProperty\\SingleProperty.js"
+			],
+			[
+				"apl",
+				"imports\\client\\ui\\AppLayout.scss"
+			],
+			[
+				"carscs",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.scss"
+			],
+			[
+				"cards",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.js"
+			],
+			[
+				"cars",
+				"imports\\client\\ui\\sharedComponents\\Card\\Card.scss"
+			],
+			[
+				"flexsc",
+				"client\\stylesheets\\vendors\\_flex.scss"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"router",
+				"imports\\client\\routing\\routerSelectors.js"
+			],
+			[
+				"load",
+				"imports\\client\\ui\\sharedComponents\\Loading\\Loading.js"
+			],
+			[
+				"not",
+				"imports\\client\\ui\\NotFound\\NotFoundContainer.js"
+			],
+			[
+				"topn",
+				"imports\\client\\ui\\navigation\\TopNavigation\\TopNavigation.scss"
+			],
+			[
+				"link",
+				"imports\\client\\ui\\sharedComponents\\Link\\Link.js"
+			],
+			[
+				"prope",
+				"imports\\client\\ui\\landlord\\Properties\\Properties.js"
+			],
+			[
+				"userac",
+				"imports\\client\\user\\duck\\userActions.js"
+			],
+			[
+				"immu",
+				"imports\\client\\sharedModules\\nonMutatingStateModifers.js"
+			],
+			[
+				"reducer",
+				"imports\\client\\ui\\landlord\\Properties\\PropertyList\\duck\\reducer.js"
+			],
+			[
+				"userred",
+				"imports\\client\\user\\duck\\reducer.js"
+			],
+			[
+				"useraction",
+				"imports\\client\\user\\duck\\actions.js"
+			],
+			[
+				"center",
+				"client\\stylesheets\\base\\_centering.scss"
+			],
+			[
+				"prol",
+				"imports\\client\\ui\\landlord\\Properties\\PropertyList\\PropertyList.js"
+			],
+			[
+				"use",
+				"imports\\client\\user\\UserTracker.js"
+			],
+			[
+				"appurl",
+				"imports\\client\\routing\\AppUrl\\AppUrl.js"
+			],
+			[
+				"immut",
+				"imports\\client\\sharedModules\\nonMutatingStateModifers.js"
+			],
+			[
+				"loca",
+				"imports\\client\\startup\\redux\\localStorage.js"
+			],
+			[
+				"routers",
+				"imports\\client\\routing\\routerSelectors.js"
+			],
+			[
+				"loading",
+				"imports\\client\\ui\\sharedComponents\\Loading\\Loading.js"
+			],
+			[
+				"ho",
+				"imports\\client\\ui\\onboarding\\Home.js"
+			],
+			[
+				"root",
+				"imports\\client\\startup\\redux\\rootReducer.js"
+			],
+			[
+				"route",
+				"imports\\client\\routing\\routes\\landlordRoutes.js"
+			],
+			[
+				"nag",
+				"imports\\client\\ui\\navigation\\TopNavigation\\TopNavigation.js"
+			],
+			[
+				"actions",
+				"imports\\client\\user\\duck\\userActions.js"
+			],
+			[
+				"configu",
+				"imports\\client\\startup\\redux\\configureStore.js"
+			],
+			[
+				"immuta",
+				"imports\\client\\sharedModules\\nonMutatingStateModifers.js"
+			],
+			[
+				"redux",
+				"imports\\client\\startup\\redux\\rootReducer.js"
+			],
+			[
+				"version",
+				".meteor\\versions"
+			],
+			[
+				"usert",
+				"imports\\client\\user\\UserTracker.js"
+			],
+			[
+				"applayou",
+				"imports\\client\\ui\\AppLayout.js"
+			],
+			[
+				"boilerd",
+				"imports\\client\\BOILERPLATE\\boilerDuck.js"
+			],
+			[
+				"rootred",
+				"imports\\client\\startup\\redux\\rootReducer.js"
+			],
+			[
+				"sid",
+				"imports\\client\\ui\\navigation\\SidebarNavigation\\SidebarNavigation.js"
+			],
+			[
+				"usertra",
+				"imports\\client\\user\\UserTracker.js"
+			],
+			[
+				"notfou",
+				"imports\\client\\ui\\NotFound\\NotFoundContainer.js"
+			],
+			[
+				"user",
+				"imports\\client\\user\\UserTracker.js"
+			],
+			[
+				"no",
+				"imports\\client\\ui\\NotFound\\NotFound.js"
+			],
+			[
+				"hoc",
+				"imports\\client\\BOILERPLATE\\BoilerHOC.js"
+			],
+			[
+				"brow",
+				"imports\\client\\routing\\BrowserUrl.js"
+			],
+			[
+				"userib",
+				"imports\\client\\ui\\navigation\\SidebarNavigation\\SidebarUserInfo\\SidebarUserInfo.js"
+			],
+			[
+				"nav",
+				"imports\\client\\ui\\navigation\\TopNavigation\\TopNavigation.js"
+			],
+			[
+				"varia",
+				"client\\stylesheets\\vendors\\bootswatch\\sandstone\\_variables.scss"
+			],
+			[
+				"vari",
+				"client\\stylesheets\\vendors\\bootswatch\\sandstone\\_variables.scss"
+			],
+			[
+				"",
+				"imports\\client\\ui\\onboarding\\Login\\LoginForm.js"
+			],
+			[
+				"action",
+				"imports\\client\\ui\\sharedComponents\\ActionButtons\\ActionButtons.js"
+			],
+			[
+				"formin",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\FormInputs.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"forsc",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\FormInputs.scss"
+			],
+			[
+				"select",
+				"imports\\client\\routing\\duck\\routerSelectors.js"
+			],
+			[
+				"topna",
+				"imports\\client\\ui\\navigation\\TopNavigation\\TopNavigation.js"
+			],
+			[
+				"notf",
+				"imports\\client\\ui\\NotFound.js"
+			],
+			[
+				"bas",
+				"imports\\client\\routing\\routes\\baseRoutes.js"
+			],
+			[
+				"base",
+				"imports\\client\\routing\\routes\\baseRoutes.js"
+			],
+			[
+				"routsel",
+				"imports\\client\\routing\\duck\\routerSelector.js"
+			],
+			[
+				"rou",
+				"imports\\client\\routing\\Router.js"
+			],
+			[
+				"parse",
+				"imports\\client\\routing\\parsePath.js"
+			],
+			[
+				"duck",
+				"imports\\client\\routing\\appLocationDuck.js"
+			],
+			[
+				"duc",
+				"imports\\client\\user\\userDuck.js"
+			],
+			[
+				"logifocon",
+				"imports\\client\\ui\\onboarding\\Login\\LoginFormContainer.js"
+			],
+			[
+				"appsc",
+				"client\\stylesheets\\application.scss"
+			],
+			[
+				"idnex",
+				"imports\\client\\ui\\onboarding\\Logout\\index.js"
+			],
+			[
+				"index",
+				"imports\\client\\ui\\onboarding\\Login\\index.js"
+			],
+			[
+				"ind",
+				"imports\\client\\ui\\sharedComponents\\ActionButtons\\index.js"
+			],
+			[
+				"inde",
+				"imports\\client\\ui\\navigation\\TopNavigation\\index.js"
+			],
+			[
+				"in",
+				"imports\\client\\ui\\landlord\\properties\\index.js"
+			],
+			[
+				"red",
+				"imports\\startup\\client\\redux\\rootReducer.js"
+			],
+			[
+				"basrout",
+				"imports\\client\\routing\\routes\\baseRoutes.js"
+			],
+			[
+				"top",
+				"imports\\client\\ui\\navigation\\TopNavigation\\TopNavigation.js"
+			],
+			[
+				"logout",
+				"imports\\client\\ui\\onboarding\\Logout\\Logout.js"
+			],
+			[
+				"startu",
+				"imports\\startup\\client\\app.js"
+			],
+			[
+				"forms",
+				"client\\stylesheets\\base\\_forms.scss"
+			],
+			[
+				"compone",
+				"client\\stylesheets\\_components.scss"
+			],
+			[
+				"formscs",
+				"imports\\client\\ui\\sharedComponents\\FormInputs\\formInputs.scss"
+			],
+			[
+				"appscs",
+				"imports\\client\\ui\\appLayout.scss"
+			],
+			[
+				"sidscss",
+				"imports\\client\\ui\\navigation\\SidebarNavigation\\sidebarNavigation.scss"
+			],
+			[
+				"topscs",
+				"imports\\client\\ui\\navigation\\TopNavigation\\topNavigation.scss"
+			],
+			[
+				"navscs",
+				"imports\\client\\ui\\navigation\\navigation.scss"
+			],
+			[
+				"bab",
+				".babelrc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Martin\\Dropbox\\GMU\\GMU.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Projects\\Blake2"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
