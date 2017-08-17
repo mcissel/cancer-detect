@@ -28,13 +28,14 @@ export function uploadFile(file) {
           }))
         } else {
           const data = JSON.parse(res.text)
+          // console.log(res);
           dispatch({
             type: UPLOAD_SUCCESS,
             data,
           })
           dispatch(showNotification({
             status: 'ok',
-            text: `File uploaded. Key: ${data.key}`,
+            text: `Percent chance of malignancy: ${res.text}`,
           }))
         }
         console.log({ res });
